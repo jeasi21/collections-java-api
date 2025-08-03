@@ -46,8 +46,8 @@ public class CarrinhoDeCompras {
         carrinhoDeCompras.adicionarItem("leite desnatado", "menos calorias");
         carrinhoDeCompras.adicionarItem("Açucar Cristal", "refinado");
         carrinhoDeCompras.adicionarItem("Sabão grosso", "azul");
-
         System.out.println("Total de produtos cadastrados: " +  carrinhoDeCompras.obterTotaDeProdutos());
+
 
         carrinhoDeCompras.removerItem("feijão gama lopes");
 
